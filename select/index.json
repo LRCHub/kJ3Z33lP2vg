@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "好きって言って",
+  "base_artist": "ちいたな",
+  "createdAt": "2026-03-04T02:42:36.770320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好きって言って",
+      "artist": "CHIHIRO",
+      "has_synced": true,
+      "path": "select/01_好きって言って_CHIHIRO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好きって言って",
+      "artist": "ちいたな",
+      "has_synced": true,
+      "path": "select/02_好きって言って_ちいたな.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好きって言って",
+      "artist": "CHIHIRO",
+      "has_synced": true,
+      "path": "select/03_好きって言って_CHIHIRO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "04_好きって言って？_SEなし",
+      "artist": "すたぁさーくる",
+      "has_synced": true,
+      "path": "select/04_04_好きって言って__SEなし_すたぁさーくる.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きって言って",
+      "artist": "ちいたな",
+      "has_synced": false,
+      "path": "select/pl_01_好きって言って_ちいたな.txt"
+    }
+  ]
+}
